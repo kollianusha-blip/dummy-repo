@@ -6,7 +6,7 @@
 
 ## 1. Executive Summary
 - **Application Name:** order-processing-service
-- **Service Owner:** kolli_anusha@epam.com
+- **Service Owner:** Anusha Kolli <kolli_anusha@epam.com>
 - **Business Impact:** Critical
 - **Description:** A high-performance Node.js microservice that ingests customer order requests, validates inventory levels against the database, and publishes event messages to RabbitMQ for asynchronous payment processing.
 
@@ -47,6 +47,7 @@
 ---
 
 ## 6. Documentation & Resources
+**Maintainers:** Anusha Kolli <kolli_anusha@epam.com> 
 - **GitHub Repository:** [https://github.com/elitea-org/order-processing-service](https://github.com/elitea-org/order-processing-service)
 - **API Documentation:** [Confluence Swagger Docs Link](#)
 - **JIRA Board:** [JIRA CHECKOUT BOARD](#)
