@@ -6,7 +6,7 @@
 
 ## 1. Executive Summary
 - **Application Name:** order-processing-service
-- **Service Owner:** Team Checkout & Payments (payments-team@elitea.internal)
+- **Service Owner:** kolli_anusha@epam.com
 - **Business Impact:** Critical
 - **Description:** A high-performance Node.js microservice that ingests customer order requests, validates inventory levels against the database, and publishes event messages to RabbitMQ for asynchronous payment processing.
 
