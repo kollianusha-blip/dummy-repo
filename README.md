@@ -1,11 +1,11 @@
-# Anusha-project-repo
+# dummy-project-repo
 
 > A robust Spring Boot microservice responsible for handling service endpoints and business logic in the EliteA ecosystem.
 
 ---
 
 ## 1. Executive Summary
-- **Application Name:** Anusha-project-repo
+- **Application Name:** dummy-project-repo
 - **Service Owner:** Anusha Kolli <kolli_anusha@epam.com>
 - **Business Impact:** Critical
 - **Description:** A Java Spring Boot web service for testing the EliteA automated documentation pipeline.
