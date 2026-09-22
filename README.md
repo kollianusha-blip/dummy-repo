@@ -8,8 +8,7 @@
 - **Application Name:** order-processing-service
 - **Service Owner:** Anusha Kolli <kolli_anusha@epam.com>
 - **Business Impact:** Critical
-- **Description:** A high-performance Node.js microservice that ingests customer order requests, validates inventory levels against the database, and publishes event messages to RabbitMQ for asynchronous payment processing.
-
+- **Description:** A microservice responsible for handling customer orders and processing events.
 ---
 
 ## 2. System Architecture & Tech Stack
