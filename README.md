@@ -4,11 +4,13 @@
 
 ---
 
+# dummy-project-repo
+
 ## 1. Executive Summary
-- **Application Name:** order-processing-service
+- **Application Name:** dummy-project-repo
 - **Service Owner:** Anusha Kolli <kolli_anusha@epam.com>
 - **Business Impact:** Critical
-- **Description:** A microservice responsible for handling customer orders and processing events.
+- **Description:** A sample Spring Boot web service for testing the EliteA automated documentation pipeline.
 ---
 
 ## 2. System Architecture & Tech Stack
