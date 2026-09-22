@@ -13,4 +13,12 @@
             <version>3.2.2</version>
         </dependency>
     </dependencies>
+          <name>Anusha Kolli</name>
+            <email>kolli_anusha@epam.com</email>
+    <developers>
+        <developer>
+            <name>Anusha Kolli</name>
+            <email>kolli_anusha@epam.com</email>
+        </developer>
+    </developers>
 </project>
